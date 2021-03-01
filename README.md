@@ -148,9 +148,9 @@ asa.Activate
 
 The following snapshots capture the execution times for the original code.
 
-<img src="resources/2017_refactored.png" width="225" height="200"/>
+<img src="resources/VBA_Challenge_2017.png" width="225" height="200"/>
 
-<img src="resources/2018_refactored.png" width="225" height="200"/>
+<img src="resources/VBA_Challenge_2018.png" width="225" height="200"/>
 
 2017 Refactored Execution Time: 0.45313 seconds
 
