@@ -146,11 +146,7 @@ asa.Activate
 
 ### Refactored Execution Times
 
-<<<<<<< HEAD
 The following snapshots capture the execution times for the refactored code.
-=======
-The following snapshots capture the execution times for the original code.
->>>>>>> 930aff8b2add497dd634989c73701846f99ba570
 
 <img src="resources/VBA_Challenge_2017.png" width="225" height="200"/>
 
